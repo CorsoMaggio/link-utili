@@ -1,0 +1,9 @@
+- Scrivere testo casuale: https://www.lipsum.com/
+- Immagini Casuali: https://picsum.photos/
+- Immagini gratuite "belle": https://pixabay.com/it/
+- Creare Wireframe e Mockup: https://miro.com/it/
+- Validare codice HTML: https://validator.w3.org/#validate_by_input
+- W3Schools: https://www.w3schools.com/
+- Scegliere colori: https://coolors.co/
+- Playground: https://codingfantasy.com/games
+- Vedere il layout dei vecchi siti: https://web.archive.org/
