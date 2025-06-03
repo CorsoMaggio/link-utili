@@ -1,0 +1,10 @@
+- vscode-icons-team.vscode-icons
+- mohd-akram.vscode-html-format
+- ritwickdey.LiveServer
+- bradlc.vscode-tailwindcss
+- vscode-icons-team.vscode-icons
+
+
+FACOLTATIVE:
+- Lingua Italiana: MS-CEINTL.vscode-language-pack-it
+- Tema: enkia.tokyo-night
