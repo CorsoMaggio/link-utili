@@ -7,3 +7,4 @@
 - Scegliere colori: https://coolors.co/
 - Playground: https://codingfantasy.com/games
 - Vedere il layout dei vecchi siti: https://web.archive.org/
+- Controllare l'accessibilita dei colori scelti: https://www.color-blindness.com/color-blindness-tests/#google_vignette
