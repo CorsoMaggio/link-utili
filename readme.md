@@ -9,3 +9,5 @@
 - Vedere il layout dei vecchi siti: https://web.archive.org/
 - Controllare l'accessibilita dei colori scelti: https://www.color-blindness.com/color-blindness-tests/#google_vignette
 - Scratch https://scratch.mit.edu/
+- Playground 1 Html https://stackblitz.com/
+- Playground 2 Html https://playcode.io/new
